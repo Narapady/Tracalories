@@ -464,4 +464,3 @@ const App = (function (ItemCtrl, StorageCtrl, UICtrl) {
 
 App.init();
 
-// localStorage.clear();
